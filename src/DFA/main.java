@@ -1,6 +1,10 @@
 package DFA;
 import java.util.*;
-
+/**
+ * authors
+ * Samuel Scott
+ * Jathmel Gordon
+ **/
 public class main {
 
 	public static void main(String[] args) {
